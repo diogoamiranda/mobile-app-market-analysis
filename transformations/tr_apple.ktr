@@ -524,7 +524,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>${ProjectDir}/datasets/apple/appleAppData.csv</filename>
+    <filename>${ProjectDir}/input/apple/appleAppData.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
