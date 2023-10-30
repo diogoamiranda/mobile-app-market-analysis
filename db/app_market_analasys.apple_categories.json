@@ -1,0 +1,182 @@
+[{
+  "_id": {
+    "$oid": "653e74cfe4ff995add732695"
+  },
+  "apple_category": "Book",
+  "category": "Books & Reference"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add732696"
+  },
+  "apple_category": "Business",
+  "category": "Business"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add732697"
+  },
+  "apple_category": "Developer Tools",
+  "category": "Tools"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add732698"
+  },
+  "apple_category": "Education",
+  "category": "Education"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add732699"
+  },
+  "apple_category": "Entertainment",
+  "category": "Entertainment"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add73269a"
+  },
+  "apple_category": "Finance",
+  "category": "Finance"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add73269b"
+  },
+  "apple_category": "Food & Drink",
+  "category": "Food & Drink"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add73269c"
+  },
+  "apple_category": "Games",
+  "category": "Games"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add73269d"
+  },
+  "apple_category": "Graphics & Design",
+  "category": "Art & Design"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add73269e"
+  },
+  "apple_category": "Health & Fitness",
+  "category": "Health & Fitness"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add73269f"
+  },
+  "apple_category": "Lifestyle",
+  "category": "Lifestyle"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add7326a0"
+  },
+  "apple_category": "Magazines & Newspapers",
+  "category": "News & Magazines"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add7326a1"
+  },
+  "apple_category": "Medical",
+  "category": "Medical"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add7326a2"
+  },
+  "apple_category": "Music",
+  "category": "Music"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add7326a3"
+  },
+  "apple_category": "Navigation",
+  "category": "Maps & Navigation"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add7326a4"
+  },
+  "apple_category": "News",
+  "category": "News & Magazines"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add7326a5"
+  },
+  "apple_category": "Photo & Video",
+  "category": "Photography"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add7326a6"
+  },
+  "apple_category": "Productivity",
+  "category": "Productivity"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add7326a7"
+  },
+  "apple_category": "Reference",
+  "category": "Books & Reference"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add7326a8"
+  },
+  "apple_category": "Shopping",
+  "category": "Shopping"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add7326a9"
+  },
+  "apple_category": "Social Networking",
+  "category": "Social"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add7326aa"
+  },
+  "apple_category": "Sports",
+  "category": "Sports"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add7326ab"
+  },
+  "apple_category": "Stickers",
+  "category": "Others"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add7326ac"
+  },
+  "apple_category": "Travel",
+  "category": "Travel & Local"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add7326ad"
+  },
+  "apple_category": "Utilities",
+  "category": "Utilities"
+},
+{
+  "_id": {
+    "$oid": "653e74cfe4ff995add7326ae"
+  },
+  "apple_category": "Weather",
+  "category": "Weather"
+}]

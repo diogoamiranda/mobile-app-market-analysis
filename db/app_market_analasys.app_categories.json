@@ -1,0 +1,282 @@
+[{
+  "_id": {
+    "$oid": "653e7141e4ff995add732631"
+  },
+  "name": "Books & Reference"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732632"
+  },
+  "name": "Business"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732633"
+  },
+  "name": "Education"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732634"
+  },
+  "name": "Entertainment"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732635"
+  },
+  "name": "Finance"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732636"
+  },
+  "name": "Food & Drink"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732637"
+  },
+  "name": "Games"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732638"
+  },
+  "name": "Health & Fitness"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732639"
+  },
+  "name": "Lifestyle"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73263a"
+  },
+  "name": "Magazines & News"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73263b"
+  },
+  "name": "Medical"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73263c"
+  },
+  "name": "Music"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73263d"
+  },
+  "name": "News & Magazines"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73263e"
+  },
+  "name": "Productivity"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73263f"
+  },
+  "name": "Shopping"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732640"
+  },
+  "name": "Sports"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732641"
+  },
+  "name": "Travel & Local"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732642"
+  },
+  "name": "Tools"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732643"
+  },
+  "name": "Weather"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732644"
+  },
+  "name": "Utilities"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732645"
+  },
+  "name": "Adventure"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732646"
+  },
+  "name": "Art & Design"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732647"
+  },
+  "name": "Comics"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732648"
+  },
+  "name": "Communication"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732649"
+  },
+  "name": "Dating"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73264a"
+  },
+  "name": "Casual"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73264b"
+  },
+  "name": "Maps & Navigation"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73264c"
+  },
+  "name": "Parenting"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73264d"
+  },
+  "name": "Photography"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73264e"
+  },
+  "name": "Social Networking"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73264f"
+  },
+  "name": "Stickers"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732650"
+  },
+  "name": "Action"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732651"
+  },
+  "name": "Auto & Vehicles"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732652"
+  },
+  "name": "Board"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732653"
+  },
+  "name": "Card"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732654"
+  },
+  "name": "Casino"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732655"
+  },
+  "name": "Puzzle"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732656"
+  },
+  "name": "Racing"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732657"
+  },
+  "name": "Role Playing"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732658"
+  },
+  "name": "Simulation"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add732659"
+  },
+  "name": "Strategy"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73265a"
+  },
+  "name": "Trivia"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73265b"
+  },
+  "name": "Word"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73265c"
+  },
+  "name": "House & Home"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73265d"
+  },
+  "name": "Libraries & Demo"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73265e"
+  },
+  "name": "Personalization"
+},
+{
+  "_id": {
+    "$oid": "653e7141e4ff995add73265f"
+  },
+  "name": "Video Players & Editors"
+}]

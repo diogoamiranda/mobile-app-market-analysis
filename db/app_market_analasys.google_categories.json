@@ -1,0 +1,336 @@
+[{
+  "_id": {
+    "$oid": "653e732ce4ff995add732663"
+  },
+  "google_category": "Action",
+  "category": "Action"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732664"
+  },
+  "google_category": "Adventure",
+  "category": "Adventure"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732665"
+  },
+  "google_category": "Arcade",
+  "category": "Arcade"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732666"
+  },
+  "google_category": "Art & Design",
+  "category": "Art & Design"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732667"
+  },
+  "google_category": "Auto & Vehicles",
+  "category": "Auto & Vehicles"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732668"
+  },
+  "google_category": "Beauty",
+  "category": "Beauty"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732669"
+  },
+  "google_category": "Board",
+  "category": "Board"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73266a"
+  },
+  "google_category": "Books & Reference",
+  "category": "Books & Reference"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73266b"
+  },
+  "google_category": "Business",
+  "category": "Business"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73266c"
+  },
+  "google_category": "Card",
+  "category": "Card"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73266d"
+  },
+  "google_category": "Casino",
+  "category": "Casino"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73266e"
+  },
+  "google_category": "Casual",
+  "category": "Casual"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73266f"
+  },
+  "google_category": "Comics",
+  "category": "Comics"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732670"
+  },
+  "google_category": "Communication",
+  "category": "Communication"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732671"
+  },
+  "google_category": "Dating",
+  "category": "Dating"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732672"
+  },
+  "google_category": "Education",
+  "category": "Education"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732673"
+  },
+  "google_category": "Educational",
+  "category": "Educational"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732674"
+  },
+  "google_category": "Entertainment",
+  "category": "Entertainment"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732675"
+  },
+  "google_category": "Events",
+  "category": "Events"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732676"
+  },
+  "google_category": "Finance",
+  "category": "Finance"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732677"
+  },
+  "google_category": "Food & Drink",
+  "category": "Food & Drink"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732678"
+  },
+  "google_category": "Health & Fitness",
+  "category": "Health & Fitness"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732679"
+  },
+  "google_category": "House & Home",
+  "category": "House & Home"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73267a"
+  },
+  "google_category": "Libraries & Demo",
+  "category": "Libraries & Demo"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73267b"
+  },
+  "google_category": "Lifestyle",
+  "category": "Lifestyle"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73267c"
+  },
+  "google_category": "Maps & Navigation",
+  "category": "Maps & Navigation"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73267d"
+  },
+  "google_category": "Medical",
+  "category": "Medical"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73267e"
+  },
+  "google_category": "Music",
+  "category": "Music"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73267f"
+  },
+  "google_category": "Music & Audio",
+  "category": "Music & Audio"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732680"
+  },
+  "google_category": "News & Magazines",
+  "category": "News & Magazines"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732681"
+  },
+  "google_category": "Parenting",
+  "category": "Parenting"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732682"
+  },
+  "google_category": "Personalization",
+  "category": "Personalization"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732683"
+  },
+  "google_category": "Photography",
+  "category": "Photography"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732684"
+  },
+  "google_category": "Productivity",
+  "category": "Productivity"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732685"
+  },
+  "google_category": "Puzzle",
+  "category": "Puzzle"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732686"
+  },
+  "google_category": "Racing",
+  "category": "Racing"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732687"
+  },
+  "google_category": "Role Playing",
+  "category": "Role Playing"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732688"
+  },
+  "google_category": "Shopping",
+  "category": "Shopping"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732689"
+  },
+  "google_category": "Simulation",
+  "category": "Simulation"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73268a"
+  },
+  "google_category": "Social",
+  "category": "Social"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73268b"
+  },
+  "google_category": "Sports",
+  "category": "Sports"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73268c"
+  },
+  "google_category": "Strategy",
+  "category": "Strategy"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73268d"
+  },
+  "google_category": "Tools",
+  "category": "Tools"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73268e"
+  },
+  "google_category": "Travel & Local",
+  "category": "Travel & Local"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add73268f"
+  },
+  "google_category": "Trivia",
+  "category": "Trivia"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732690"
+  },
+  "google_category": "Video Players & Editors",
+  "category": "Video Players & Editors"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732691"
+  },
+  "google_category": "Weather",
+  "category": "Weather"
+},
+{
+  "_id": {
+    "$oid": "653e732ce4ff995add732692"
+  },
+  "google_category": "Word",
+  "category": "Word"
+}]
