@@ -332,7 +332,7 @@
       <use_auth>Y</use_auth>
       <use_secure_auth>Y</use_secure_auth>
       <auth_user>marquesmirandadiogo@gmail.com</auth_user>
-      <auth_password>Encrypted 2be98afc86aa7f2b4fb0abd79c897a394</auth_password>
+      <auth_password>Encrypted </auth_password>
       <only_comment>N</only_comment>
       <use_HTML>N</use_HTML>
       <use_Priority>N</use_Priority>
@@ -348,7 +348,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>768</xloc>
+      <xloc>928</xloc>
       <yloc>144</yloc>
       <attributes_kjc/>
     </entry>
@@ -360,7 +360,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>912</xloc>
+      <xloc>1072</xloc>
       <yloc>144</yloc>
       <attributes_kjc/>
     </entry>
@@ -410,18 +410,18 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>608</xloc>
+      <xloc>784</xloc>
       <yloc>144</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
-      <name>tr_main</name>
+      <name>tr_google</name>
       <description/>
       <type>TRANS</type>
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>${Internal.Entry.Current.Directory}/../transformations/tr_main.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/../transformations/tr_google.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -501,7 +501,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>768</xloc>
+      <xloc>928</xloc>
       <yloc>352</yloc>
       <attributes_kjc/>
     </entry>
@@ -516,23 +516,23 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>608</xloc>
-      <yloc>256</yloc>
+      <xloc>784</xloc>
+      <yloc>272</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
-      <name>write_error_log_main_transform</name>
+      <name>write_error_log_google_transform</name>
       <description/>
       <type>WRITE_TO_LOG</type>
       <attributes/>
-      <logmessage>Error extracting and transforming data from main transform</logmessage>
+      <logmessage>Error extracting and transforming data from google</logmessage>
       <loglevel>Error</loglevel>
       <logsubject>Error extracting and transforming data</logsubject>
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>368</xloc>
-      <yloc>256</yloc>
+      <yloc>272</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -548,6 +548,60 @@
       <nr>0</nr>
       <xloc>224</xloc>
       <yloc>352</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>tr_apple</name>
+      <description/>
+      <type>TRANS</type>
+      <attributes/>
+      <specification_method>filename</specification_method>
+      <trans_object_id/>
+      <filename>${Internal.Entry.Current.Directory}/../transformations/tr_apple.ktr</filename>
+      <transname/>
+      <arg_from_previous>N</arg_from_previous>
+      <params_from_previous>N</params_from_previous>
+      <exec_per_row>N</exec_per_row>
+      <clear_rows>N</clear_rows>
+      <clear_files>N</clear_files>
+      <set_logfile>N</set_logfile>
+      <logfile/>
+      <logext/>
+      <add_date>N</add_date>
+      <add_time>N</add_time>
+      <loglevel>Basic</loglevel>
+      <cluster>N</cluster>
+      <slave_server_name/>
+      <set_append_logfile>N</set_append_logfile>
+      <wait_until_finished>Y</wait_until_finished>
+      <follow_abort_remote>N</follow_abort_remote>
+      <create_parent_folder>N</create_parent_folder>
+      <logging_remote_work>N</logging_remote_work>
+      <run_configuration>Pentaho local</run_configuration>
+      <suppress_result_data>N</suppress_result_data>
+      <parameters>
+        <pass_all_parameters>Y</pass_all_parameters>
+      </parameters>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>576</xloc>
+      <yloc>144</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>write_error_log_apple_transform</name>
+      <description/>
+      <type>WRITE_TO_LOG</type>
+      <attributes/>
+      <logmessage>Error extracting and transforming data from apple</logmessage>
+      <loglevel>Error</loglevel>
+      <logsubject>Error extracting and transforming data</logsubject>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>576</xloc>
+      <yloc>272</yloc>
       <attributes_kjc/>
     </entry>
   </entries>
@@ -571,17 +625,8 @@
       <unconditional>N</unconditional>
     </hop>
     <hop>
-      <from>tr_main</from>
-      <to>jb_generate_charts</to>
-      <from_nr>0</from_nr>
-      <to_nr>0</to_nr>
-      <enabled>Y</enabled>
-      <evaluation>Y</evaluation>
-      <unconditional>N</unconditional>
-    </hop>
-    <hop>
       <from>jb_set_variables</from>
-      <to>tr_main</to>
+      <to>tr_google</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
@@ -616,8 +661,8 @@
       <unconditional>N</unconditional>
     </hop>
     <hop>
-      <from>tr_main</from>
-      <to>write_error_log_main_transform</to>
+      <from>tr_google</from>
+      <to>write_error_log_google_transform</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
@@ -643,7 +688,7 @@
       <unconditional>Y</unconditional>
     </hop>
     <hop>
-      <from>write_error_log_main_transform</from>
+      <from>write_error_log_google_transform</from>
       <to>abort_jb_main</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
@@ -662,6 +707,42 @@
     </hop>
     <hop>
       <from>write_error_log_charts_generation</from>
+      <to>abort_jb_main</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>Y</unconditional>
+    </hop>
+    <hop>
+      <from>tr_google</from>
+      <to>tr_apple</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>Y</unconditional>
+    </hop>
+    <hop>
+      <from>tr_apple</from>
+      <to>jb_generate_charts</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>Y</unconditional>
+    </hop>
+    <hop>
+      <from>tr_apple</from>
+      <to>write_error_log_apple_transform</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>write_error_log_apple_transform</from>
       <to>abort_jb_main</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
