@@ -5,7 +5,7 @@
 - **MongoDB** - To read pre-defined categories and load new data at the end of the data extraction and transformation processes.
 - **Python** - For data visualisation, communicating with the database and using the **pandas** library in conjunction with the **matplotlib** library. 
 
-## Folder structure
+### Folder structure
 - charts - where are the automatically generated graphs
 - db - files of the tables to be imported into mongoDB
 - input - files with Apple and Google datasets
@@ -16,7 +16,7 @@
 - variables.txt - to store Pentaho variables
 
 ### Running Project
-### Download input datasets
+#### Download input datasets
 1. Apple - Download using one of the links in the text file in **./input/apple/link.txt** and leave the downloaded file in the same directory
 2. Google - Download using one of the links in the text file in **./input/google/link.txt** and leave the downloaded file in the same directory
 
